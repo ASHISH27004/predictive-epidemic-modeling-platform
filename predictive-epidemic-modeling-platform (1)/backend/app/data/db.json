@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@gridoptimizer.com"
+    }
+  ],
+  "history": [
+    {
+      "id": "49a5de33-87fc-4851-a558-c291a9d1d0c5",
+      "user": "admin",
+      "title": "Test entry",
+      "details": "Created by test"
+    }
+  ],
+  "tokens": {
+    "b00b7019-8143-4d18-857f-62914f6ba9ba": "admin",
+    "f79100cc-5ef4-4f75-b246-59102ae53662": "admin",
+    "840dbe17-9dc1-44cb-b7f5-9f13c32b5040": "admin"
+  }
+}
