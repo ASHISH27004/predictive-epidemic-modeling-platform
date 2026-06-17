@@ -72,15 +72,7 @@ npm run dev
 
 ### Full Stack (Docker Compose)
 ```bash
-docker compose up --build
-```
-
-Services available:
-- **API**: http://localhost:8000
-- **Docs**: http://localhost:8000/docs
-- **Frontend**: http://localhost:3000
-
-### Local Development
+docker compose 
 ```bash
 # Backend
 cd backend
